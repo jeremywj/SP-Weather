@@ -21,7 +21,7 @@
         private $moduleID;
         private $moduledir;
         private $nightIDs = array(27,29,31,33);
-        private $iconURL = 'http://l.yimg.com/os/mit/media/m/weather/images/icons/l/%d%s-100567.png';
+        private $iconURL = 'https://s.yimg.com/os/mit/media/m/weather/images/icons/l/%d%s-100567.png';
 
 
         /**
